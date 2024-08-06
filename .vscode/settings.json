@@ -1,0 +1,5 @@
+{
+    "phpSniffer.standard": "PSR12",
+	"editor.defaultFormatter": "wongjn.php-sniffer",
+	"editor.formatOnSave": false
+}
